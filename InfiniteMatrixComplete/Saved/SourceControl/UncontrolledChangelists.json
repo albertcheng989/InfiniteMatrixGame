@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/adcheng4/Documents/GitHub/InfiniteMatrixGame/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/adcheng4/Documents/GitHub/InfiniteMatrixGame/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/adcheng4/Documents/GitHub/InfiniteMatrixGame/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/HealthPickup.uasset",
+				"C:/Users/adcheng4/Documents/GitHub/InfiniteMatrixGame/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/ColorCurve.uasset",
+				"C:/Users/adcheng4/Documents/GitHub/InfiniteMatrixGame/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BBCameraShake.uasset",
+				"C:/Users/adcheng4/Documents/GitHub/InfiniteMatrixGame/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/adcheng4/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset"
 			]
 		}
